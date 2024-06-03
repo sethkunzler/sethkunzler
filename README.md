@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sethkunzler
-- 👀 I’m interested in the people talking to me
-- 🌱 I’m currently learning about full stack web development
-- 💞️ I’m looking to collaborate on ... (I don't know I'm new 😄)
+- 👀 I’m interested Full Stack Web Development
+- 🌱 I’m currently learning react 
+- 💞️ I’m looking to collaborate on a calandering project I am working on
 - 📫 How to reach me sethkunzler@gmail.com
 - ⚡ Fun fact: Yo hablo Español (I speak spanish) 
 
